@@ -1,0 +1,28 @@
+name: Sand Box Personal Site
+favicon: null
+layout_spectrum: 0.7729360302910209
+typography_spectrum: 0.2367575338575989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9119876346085221
+  lightness: 0.1962343251798302
+  saturation: 0.242239560931921
+  rhythmicContrast: 0.5199657999910414
+purpose: []
