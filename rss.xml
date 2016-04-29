@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sand Box Personal Site]]></title>
+        <description><![CDATA[Sand Box Personal Site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 13:52:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Urgency - Motivational video]]></title>
+            <description><![CDATA[<article><h1>Urgency - Motivational video</h1><p>SUPPORT THE MulliganBrothers HERE AND HELP ME MAKE MORE VIDEOS: https://www.patreon.com/mulliganbrothers?ty=h Urgency - Motivational video Interact with me and get motivated+ Facebook - https://www.facebook.com/mulliganbrothers Twitter - https://twitter.com/Muliganbrothers Instagram - https://instagram.com/mulliganbrothers Tumblr - http://mulliganbrothers.tumblr.com/ PATREON SUPPORTERS!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc6305d6deed3484929e7e701c02555db60732ac.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=yYx-1nrDpHg&amp;sns=fb</link>
+            <guid isPermaLink="false">3ab950f0-76d6-40db-a2f2-d9bab4c4dea9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:52:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
